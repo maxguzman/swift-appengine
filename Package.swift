@@ -1,7 +1,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "VaporGAE",
+    name: "my-api",
     targets: [
         Target(name: "VaporGAE", dependencies: [])
     ],
